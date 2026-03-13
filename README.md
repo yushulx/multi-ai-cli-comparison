@@ -2,6 +2,7 @@
 
 A PySide6 desktop app that sends a single prompt to multiple AI CLI tools simultaneously and shows all responses side by side for easy comparison.
 
+![AI CLI comparison](https://www.dynamsoft.com/codepool/img/2026/03/multi-ai-cli-comparison.png)
 
 ## Supported CLIs
 
